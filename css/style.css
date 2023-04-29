@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    text-align: center;
+    background-image: url(../images/photo-1avif.avif);
+
+}
+
+.container {
+    width: 550px;
+    height: 450px;
+}
+
+.title {
+    font-size: 20px;
+    border: solid 2px white;
+    color: white;
+    background-color: #262626;
+    padding: 5px;
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 10px;
+
+}
+
+.second-part {
+
+    background-color: white;
+    height: 300px;
+    border-radius: 20px;
+    padding-top: 40px;
+}
+
+.expression {
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.name {
+    font-size: 1.6rem;
+    color: red;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: #262626;
+    color: white;
+    font-size: 1.3rem;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+
+.btn:active {
+    background-color: lightblue;
+}

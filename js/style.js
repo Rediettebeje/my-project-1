@@ -38,7 +38,10 @@ quote:'Be yourself; everyone else is already taken.”',
 }, {
 quote:'ፈረስ ያደርሳል እንጂ አይዋጋም.”',
     person: "peoples"
-}, ]
+}, {
+quote:'ያልጠረጠረ ተመነጠረ.”',
+    person: "peoples"
+},]
  
 
 let buttn = document.getElementById("button")

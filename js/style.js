@@ -35,6 +35,9 @@ quote:"“We are what we pretend to be, so we must be careful about what we pret
 },{
 quote:'Be yourself; everyone else is already taken.”',
     person: "Oscar Wilde"
+}, {
+quote:'ፈረስ ያደርሳል እንጂ አይዋጋም.”',
+    person: "peoples"
 }, ]
  
 
